@@ -1,0 +1,12 @@
+{
+  "name": "python-for-node",
+  "version": "1.0.0",
+  "description": "Tool written to easily run python code from a nodejs server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rohan Subramaniam",
+  "license": "ISC"
+}
