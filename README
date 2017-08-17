@@ -1,0 +1,5 @@
+This code was written to allow programmers using NodeJs to easily call python functions
+asynchronously.
+
+Write all python functions in files within the python_imports folder, and see test.js to see an example
+of how to use the python-runner.
